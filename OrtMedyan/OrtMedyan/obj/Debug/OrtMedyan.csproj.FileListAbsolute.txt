@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\obj\Debug\OrtMedyan.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\obj\Debug\OrtMedyan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\bin\Debug\OrtMedyan.exe.config
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\bin\Debug\OrtMedyan.exe
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\bin\Debug\OrtMedyan.pdb
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\obj\Debug\OrtMedyan.exe
+C:\Users\User\source\repos\OrtMedyan\OrtMedyan\obj\Debug\OrtMedyan.pdb
