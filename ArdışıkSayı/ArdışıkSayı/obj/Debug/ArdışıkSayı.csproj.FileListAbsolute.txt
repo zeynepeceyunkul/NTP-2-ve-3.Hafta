@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\bin\Debug\ArdışıkSayı.exe.config
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\bin\Debug\ArdışıkSayı.exe
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\bin\Debug\ArdışıkSayı.pdb
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\obj\Debug\ArdışıkSayı.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\obj\Debug\ArdışıkSayı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\obj\Debug\ArdışıkSayı.exe
+C:\Users\User\source\repos\ArdışıkSayı\ArdışıkSayı\obj\Debug\ArdışıkSayı.pdb
