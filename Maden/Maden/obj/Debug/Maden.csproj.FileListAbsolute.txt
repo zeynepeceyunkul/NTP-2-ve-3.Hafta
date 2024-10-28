@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Maden\Maden\bin\Debug\Maden.exe.config
+C:\Users\User\source\repos\Maden\Maden\bin\Debug\Maden.exe
+C:\Users\User\source\repos\Maden\Maden\bin\Debug\Maden.pdb
+C:\Users\User\source\repos\Maden\Maden\obj\Debug\Maden.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Maden\Maden\obj\Debug\Maden.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Maden\Maden\obj\Debug\Maden.exe
+C:\Users\User\source\repos\Maden\Maden\obj\Debug\Maden.pdb
