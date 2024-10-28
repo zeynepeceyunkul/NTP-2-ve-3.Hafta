@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\İkiliArama\İkiliArama\obj\Debug\İkiliArama.csprojAssemblyReference.cache
+C:\Users\User\source\repos\İkiliArama\İkiliArama\obj\Debug\İkiliArama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\İkiliArama\İkiliArama\bin\Debug\İkiliArama.exe.config
+C:\Users\User\source\repos\İkiliArama\İkiliArama\bin\Debug\İkiliArama.exe
+C:\Users\User\source\repos\İkiliArama\İkiliArama\bin\Debug\İkiliArama.pdb
+C:\Users\User\source\repos\İkiliArama\İkiliArama\obj\Debug\İkiliArama.exe
+C:\Users\User\source\repos\İkiliArama\İkiliArama\obj\Debug\İkiliArama.pdb
