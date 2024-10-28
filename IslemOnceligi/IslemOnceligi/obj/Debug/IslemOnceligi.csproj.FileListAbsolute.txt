@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\bin\Debug\IslemOnceligi.exe.config
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\bin\Debug\IslemOnceligi.exe
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\bin\Debug\IslemOnceligi.pdb
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\obj\Debug\IslemOnceligi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\obj\Debug\IslemOnceligi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\obj\Debug\IslemOnceligi.exe
+C:\Users\User\source\repos\IslemOnceligi\IslemOnceligi\obj\Debug\IslemOnceligi.pdb
