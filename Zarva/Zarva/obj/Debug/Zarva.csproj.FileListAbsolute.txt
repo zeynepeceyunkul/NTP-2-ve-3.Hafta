@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Zarva\Zarva\obj\Debug\Zarva.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Zarva\Zarva\obj\Debug\Zarva.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zarva\Zarva\bin\Debug\Zarva.exe.config
+C:\Users\User\source\repos\Zarva\Zarva\bin\Debug\Zarva.exe
+C:\Users\User\source\repos\Zarva\Zarva\bin\Debug\Zarva.pdb
+C:\Users\User\source\repos\Zarva\Zarva\obj\Debug\Zarva.exe
+C:\Users\User\source\repos\Zarva\Zarva\obj\Debug\Zarva.pdb
